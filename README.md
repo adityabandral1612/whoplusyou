@@ -20,6 +20,6 @@ Steps done:
 	
 Future scope:
 1. Auth and Middleware implementation
-2. Validations (Added to cars by street name api only for now)
+2. Validations
 3. Unit tests
 4. Pagination
